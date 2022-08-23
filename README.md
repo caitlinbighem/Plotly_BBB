@@ -1,1 +1,3 @@
 # Plotly_BBB
+
+The purpose of this analysis is to build an interactive panel that consists of demographic information and bacterial data for each individual participant. The analysis generates three different charts; a bar chart that exemplifies the top 10 bacterial cultures found within the belly button, a bubble chart that illustrates the amount of bacteria cultures for each sample, and a gauge chart that demonstrates the number of times a participant washes their belly button. Through the dropdown menu provided, users can look up the differences throughout the dataset of test subjects. 
